@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=Cygwin-Windows
 CND_ARTIFACT_DIR_Debug=dist/Debug/Cygwin-Windows
-CND_ARTIFACT_NAME_Debug=homework_assignment_4
-CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin-Windows/homework_assignment_4
+CND_ARTIFACT_NAME_Debug=assignment_4
+CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin-Windows/assignment_4
 CND_PACKAGE_DIR_Debug=dist/Debug/Cygwin-Windows/package
-CND_PACKAGE_NAME_Debug=homeworkassignment4.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin-Windows/package/homeworkassignment4.tar
+CND_PACKAGE_NAME_Debug=assignment4.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin-Windows/package/assignment4.tar
 # Release configuration
 CND_PLATFORM_Release=Cygwin-Windows
 CND_ARTIFACT_DIR_Release=dist/Release/Cygwin-Windows
-CND_ARTIFACT_NAME_Release=homework_assignment_4
-CND_ARTIFACT_PATH_Release=dist/Release/Cygwin-Windows/homework_assignment_4
+CND_ARTIFACT_NAME_Release=assignment_4
+CND_ARTIFACT_PATH_Release=dist/Release/Cygwin-Windows/assignment_4
 CND_PACKAGE_DIR_Release=dist/Release/Cygwin-Windows/package
-CND_PACKAGE_NAME_Release=homeworkassignment4.tar
-CND_PACKAGE_PATH_Release=dist/Release/Cygwin-Windows/package/homeworkassignment4.tar
+CND_PACKAGE_NAME_Release=assignment4.tar
+CND_PACKAGE_PATH_Release=dist/Release/Cygwin-Windows/package/assignment4.tar
 #
 # include compiler specific variables
 #
